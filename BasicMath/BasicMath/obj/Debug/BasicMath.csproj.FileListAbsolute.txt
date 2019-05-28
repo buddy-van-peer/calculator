@@ -1,0 +1,6 @@
+E:\DIPLOMA\Programming III\BasicMath\BasicMath\bin\Debug\BasicMath.dll
+E:\DIPLOMA\Programming III\BasicMath\BasicMath\bin\Debug\BasicMath.pdb
+E:\DIPLOMA\Programming III\BasicMath\BasicMath\obj\Debug\BasicMath.csprojAssemblyReference.cache
+E:\DIPLOMA\Programming III\BasicMath\BasicMath\obj\Debug\BasicMath.csproj.CoreCompileInputs.cache
+E:\DIPLOMA\Programming III\BasicMath\BasicMath\obj\Debug\BasicMath.dll
+E:\DIPLOMA\Programming III\BasicMath\BasicMath\obj\Debug\BasicMath.pdb
